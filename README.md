@@ -6,5 +6,6 @@
 - 📫 How to reach me: <a href="https://www.facebook.com/quangcuong.vu.1998/" rel="nofollow">Vũ Quang Cường</a>
 
 <h1> Vũ Quang Cường</h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O2L3g1ASZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video width="320" height="240" controls="controls">
+  <source src="https://www.youtube.com/watch?v=_O2L3g1ASZA" type="video/mp4" />
+</video>
